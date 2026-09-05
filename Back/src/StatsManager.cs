@@ -178,7 +178,7 @@ public class Stats
     {
 
         return Results.Ok(new DTO_PlayerStats_Return(Convert.ToString(Clicks), Convert.ToString(Money),
-        Convert.ToString(Multiplier_lvl), Convert.ToString(Autoclick_lvl)));
+        Convert.ToString(Autoclick_lvl), Convert.ToString(Multiplier_lvl)));
 
     }
     
